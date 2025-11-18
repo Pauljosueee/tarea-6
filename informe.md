@@ -117,7 +117,7 @@ networks:
 ```
 
 <p align="center">
-  <img src="archivo" width="800px">
+  <img src="/archivo.jpeg" width="800px">
 </p>
 <p align="center"><i>Figura 2-1. Archivo docker-compose.yml.</i></p>
 
@@ -130,7 +130,7 @@ docker compose up -d
 ```
 
 <p align="center">
-  <img src="verificar" width="800px">
+  <img src="/verficar.jpeg" width="800px">
 </p>
 <p align="center"><i>Figura 3-1. Ejecución del comando docker compose up.</i></p>
 
@@ -148,7 +148,7 @@ Abrir:
 **http://localhost:8080**
 
 <p align="center">
-  <img src="php" width="800px">
+  <img src="/php.jpeg" width="800px">
 </p>
 <p align="center"><i>Figura 5-1. phpMyAdmin.</i></p>
 
@@ -160,7 +160,7 @@ Abrir:
 **http://localhost:8081**
 
 <p align="center">
-  <img src="wordpress" width="800px">
+  <img src="/wordpress.jpeg" width="800px">
 </p>
 <p align="center"><i>Figura 6-1. Instalación inicial de WordPress.</i></p>
 
